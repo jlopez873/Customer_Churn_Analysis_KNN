@@ -23,9 +23,9 @@ To run the code, you will need the following packages:
 
 ## Usage
 
-To reproduce the analysis, run the Jupyter notebook `customer_churn_analysis.ipynb`. The notebook includes all the code used for data preparation, exploration, and machine learning models. 
+To reproduce the analysis, run the Jupyter notebook `Classification Analysis.ipynb`. The notebook includes all the code used for data preparation, exploration, and machine learning models. 
 
-The data used in this project is located in the `data` folder. The `telecom_users.csv` file contains the customer data used for the analysis.
+The data used in this project is located in the `data` folder. The `churn_clean.csv` file contains the customer data used for the analysis.
 
 ## Results
 
